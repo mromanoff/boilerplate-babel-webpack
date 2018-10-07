@@ -1,5 +1,5 @@
 {
-  "name": "babel7-test",
+  "name": "boilerplate-babel-webpack",
   "version": "1.0.0",
   "scripts": {
     "dev": "webpack --watch"
