@@ -1,5 +1,5 @@
-var array = [1,2,3];
+let array = [1, 2, 3];
 
 Array.from(array).forEach(($item) => {
- console.log($item);
-})
+    console.log($item);
+});
